@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "title": "Rocket League",
+  "thumbnail": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/S9_1200x1600-c1bc7211d9e671d7384e2f0247f0f77a?h=480&resize=1&w=360",
+  "short_description": "Rocket League is a fantastical sport-based video game, developed by Psyonix (it's “soccer with cars”). It features a competitive game mode based on teamwork and outmaneuvering opponents. Players work with their team to advance the ball down the field, and score goals in their opponents' net.",
+  "genres": ["Sports", "Racing"],
+  "publisher": "Psyonix LLC",
+  "developer": "Psyonix LLC",
+  "release_date": "07/07/2015"
+}
