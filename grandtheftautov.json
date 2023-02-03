@@ -1,10 +1,10 @@
 {
   "id": 541,
   "title": "Grand Theft Auto V",
-  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZXHuhzQerYfG62LDS7gSqW5Q5Z5ENzTsJE1oOXCOsNpTHvOIkYp3KgAw8KmQMfnMRND4&usqp=CAU",
+  "thumbnail": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg?h=480&resize=1&w=360",
   "short_description": "Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective. Players complete missions—linear scenarios with set objectives—to progress through the story. Outside of the missions, players may freely roam the open world.",
   "genres": ["Action", "Sand Box", "Open World", "Third-person Shooter"],
-  "publisher": "CD PROJEKT RED",
-  "developer": "CD PROJEKT RED",
+  "publisher": "Rockstar Games",
+  "developer": "Rockstar Games",
   "release_date": "09/12/2020"
 }
