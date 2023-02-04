@@ -2,31 +2,37 @@
   {
     "id": 1,
     "title": "Rocket League",
+    "name": "rocketleague",
     "thumbnail": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/S9_1200x1600-c1bc7211d9e671d7384e2f0247f0f77a?h=480&resize=1&w=360"
   },
   {
     "id": 2,
     "title": "Valorant",
+    "name": "valorant",
     "thumbnail": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/VAL_1200x1600-9d4b02efc9c35dedfb51ec0e1248abec?h=480&resize=1&w=360"
   },
   {
     "id": 3,
     "title": "League of Legends",
+    "name": "leagueoflegends",
     "thumbnail": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LeagueofLegends_RiotGames_S2_1200x1600-7fd64f0f7b674900bdd172967865d545?h=480&resize=1&w=360"
   },
   {
     "id": 4,
     "title": "MultiVersus",
+    "name": "multiversus",
     "thumbnail": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersus_PlayerFirstGames_S2_1200x1600-e365b2244970128b898fd729263db67d?h=480&resize=1&w=360"
   },
   {
     "id": 5,
     "title": "Fortnite",
+    "name": "fortnite",
     "thumbnail": "https://cdn1.epicgames.com/offer/fn/23BR_C4S1_EGS_Launcher_Blade_1200x1600_1200x1600-708ad0c7e0813b60cb2fda3e24e39401?h=480&resize=1&w=360"
   },
   {
     "id": 6,
     "title": "Genshin Impact",
+    "name": "genshinimpact",
     "thumbnail": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc?h=480&resize=1&w=360"
   }
 ]
