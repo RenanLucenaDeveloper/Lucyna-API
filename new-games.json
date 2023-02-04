@@ -2,16 +2,19 @@
   {
     "id": 2,
     "title": "Valorant",
+    "name": "valorant",
     "thumbnail": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/VAL_1200x1600-9d4b02efc9c35dedfb51ec0e1248abec?h=480&resize=1&w=360"
   },
   {
     "id": 3,
     "title": "League of Legends",
+    "name": "leagueoflegends",
     "thumbnail": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LeagueofLegends_RiotGames_S2_1200x1600-7fd64f0f7b674900bdd172967865d545?h=480&resize=1&w=360"
   },
   {
     "id": 6,
     "title": "Genshin Impact",
+    "name": "genshinimpact",
     "thumbnail": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc?h=480&resize=1&w=360"
   }
 ]
