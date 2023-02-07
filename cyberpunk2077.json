@@ -6,5 +6,6 @@
   "genres": ["Action", "RPG", "Open World", "Adventure"],
   "publisher": "CD PROJEKT RED",
   "developer": "CD PROJEKT RED",
-  "release_date": "09/12/2020"
+  "release_date": "09/12/2020",
+  "price": 35
 }
