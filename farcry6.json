@@ -6,5 +6,6 @@
   "genres": ["Action", "First-person Shooter", "Open World", "Adventure"],
   "publisher": "Ubisoft",
   "developer": "Ubisoft Toronto",
-  "release_date": "7/10/2021"
+  "release_date": "7/10/2021",
+  "price": 27.00
 }
