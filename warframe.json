@@ -6,5 +6,6 @@
   "genres": ["Action", "Adventure"],
   "publisher": "Digital Extremes",
   "developer": "Digital Extremes",
-  "release_date": "12/10/20"
+  "release_date": "12/10/20",
+  "price": 0
 }
