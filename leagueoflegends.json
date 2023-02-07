@@ -6,5 +6,6 @@
   "genres": ["Action", "RPG", "Strategy"],
   "publisher": "Riot Games",
   "developer": "Riot Games",
-  "release_date": "10/27/09"
+  "release_date": "10/27/09",
+  "price": 0
 }
