@@ -6,5 +6,6 @@
   "genres": ["Action", "RPG", "Open World", "Adventure"],
   "publisher": "Ubisoft",
   "developer": "Ubisoft",
-  "release_date": "Soon"
+  "release_date": "Soon",
+  "price": soon,
 }
