@@ -6,5 +6,6 @@
   "genres": ["Sports", "Racing"],
   "publisher": "Psyonix LLC",
   "developer": "Psyonix LLC",
-  "release_date": "07/07/2015"
+  "release_date": "07/07/2015",
+  "price": 0
 }
