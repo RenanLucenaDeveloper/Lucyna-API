@@ -1,0 +1,196 @@
+[
+  {
+    "id": 60,
+    "title": "Assassin's Creed® Mirage",
+    "thumbnail": "https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/Carousel_BoxArt_1200x1600_1200x1600-38bda67bb1290f58e8a18ddc38a3c0ec?h=480&resize=1&w=360",
+    "short_description": "Assassin's Creed Mirage is an action-adventure game, set in an open-world environment, which is played from a third-person view in which the player primarily assumes the role of Altaïr, as experienced by protagonist Desmond Miles.",
+    "genres": ["Action", "RPG", "Open World", "Adventure"],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft",
+    "release_date": "Soon",
+    "price": "soon"
+  },
+  {
+    "id": 540,
+    "title": "Cyberpunk 2077",
+    "thumbnail": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?h=854&resize=1&w=640",
+    "short_description": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality.",
+    "genres": ["Action", "RPG", "Open World", "Adventure"],
+    "publisher": "CD PROJEKT RED",
+    "developer": "CD PROJEKT RED",
+    "release_date": "09/12/2020",
+    "price": "35.00"
+  },
+  {
+    "id": 545,
+    "title": "Dying Light 2",
+    "thumbnail": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DyingLight2StayHuman_Techland_S4_1200x1600-b3d66b4576fd6488b674710e13493435?h=480&resize=1&w=360",
+    "short_description": "Dying Light 2 Stay Human is an action role-playing survival horror video game featuring a zombie apocalyptic-themed open world. Set 22 years after Dying Light, it stars a new protagonist named Aiden Caldwell (voiced by Jonah Scott), who has various parkour skills",
+    "genres": [
+      "Action",
+      "First-person Shooter",
+      "Open World",
+      "Survivor",
+      "Horror",
+      "RPG"
+    ],
+    "publisher": "Techland",
+    "developer": "Techland",
+    "release_date": "03/02/22",
+    "price": "30.00"
+  },
+  {
+    "id": 544,
+    "title": "Far Cry 6",
+    "thumbnail": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD%20EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png?h=480&resize=1&w=360",
+    "short_description": "Far Cry 6 is an open-world first-person shooter from Ubisoft. Players assume the role of Dani Rojas as they join with the ''Libertad'' resistance movement to oppose Antón Castillo, the brutal dictator of the fictional Caribbean country of Yara.",
+    "genres": ["Action", "First-person Shooter", "Open World", "Adventure"],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Toronto",
+    "release_date": "7/10/2021",
+    "price": "27.00"
+  },
+  {
+    "id": 5,
+    "title": "Fortnite",
+    "thumbnail": "https://cdn1.epicgames.com/offer/fn/23BR_C4S1_EGS_Launcher_Blade_1200x1600_1200x1600-708ad0c7e0813b60cb2fda3e24e39401?h=480&resize=1&w=360",
+    "short_description": "Fortnite Battle Royale is a player-versus-player game for up to 100 players, allowing one to play alone, in a duo, or in a squad (usually consisting of three or four players). Weaponless players airdrop from a ''Battle Bus'' that crosses the game's map.",
+    "genres": ["Action", "Third-person Shooter"],
+    "publisher": "Epic Games",
+    "developer": "Epic Games",
+    "release_date": "21/07/2017",
+    "price": "00.00"
+  },
+  {
+    "id": 543,
+    "title": "Forza Horizon 5",
+    "thumbnail": "https://picfiles.alphacoders.com/479/thumb-479583.jpg",
+    "short_description": "Forza Horizon 5 is a racing video game set in an open world environment based in a fictional representation of Mexico. The game has the largest map in the entire Forza Horizon series, being 50% larger than its predecessor, Forza Horizon 4, while also having the highest point in the Horizon series.",
+    "genres": ["Simulator", "Racing", "Open World"],
+    "publisher": "Microsoft",
+    "developer": "Playground Games",
+    "release_date": "9/11/2021",
+    "price": "21.99"
+  },
+  {
+    "id": 6,
+    "title": "Genshin Impact",
+    "thumbnail": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc?h=480&resize=1&w=360",
+    "short_description": "Genshin Impact is an open-world, action role-playing game that allows the player to control one of four interchangeable characters in a party. Switching between characters can be done quickly during combat, allowing the player to use several different combinations of skills and attacks.",
+    "genres": ["Adventure", "Open World", "RPG"],
+    "publisher": "COGNOSPHERE PTE. LTD.",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "release_date": "08/06/21",
+    "price": "00.00"
+  },
+  {
+    "id": 541,
+    "title": "Grand Theft Auto V",
+    "thumbnail": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg?h=480&resize=1&w=360",
+    "short_description": "Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective. Players complete missions—linear scenarios with set objectives—to progress through the story. Outside of the missions, players may freely roam the open world.",
+    "genres": ["Action", "Sand Box", "Open World", "Third-person Shooter"],
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar Games",
+    "release_date": "09/12/2020",
+    "price": "23.50"
+  },
+  {
+    "id": 62,
+    "title": "Hogwarts Legacy",
+    "thumbnail": "https://cdn1.epicgames.com/offer/e97659b501af4e3981d5430dad170911/EGS_HogwartsLegacy_AvalancheSoftware_S2_1200x1600-2bb94423bf1c7e2fca10577d9f2878b9?h=480&resize=1&w=360",
+    "short_description": "Hogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books. For the first time, experience Hogwarts in the 1800s. Your character is a student who holds the key to an ancient secret that threatens to tear the wizarding world apart.",
+    "genres": ["Action", "RPG", "Adventure"],
+    "publisher": "Avalanche Software",
+    "developer": "Warner Bros. Games",
+    "release_date": "10/02/23",
+    "price": "soon"
+  },
+  {
+    "id": 3,
+    "title": "League of Legends",
+    "thumbnail": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LeagueofLegends_RiotGames_S2_1200x1600-7fd64f0f7b674900bdd172967865d545?h=480&resize=1&w=360",
+    "short_description": "League of Legends is one of the world's most popular video games, developed by Riot Games. It features a team-based competitive game mode based on strategy and outplaying opponents. Players work with their team to break the enemy Nexus before the enemy team breaks theirs.",
+    "genres": ["Action", "RPG", "Strategy"],
+    "publisher": "Riot Games",
+    "developer": "Riot Games",
+    "release_date": "10/27/09",
+    "price": "00.00"
+  },
+  {
+    "id": 4,
+    "title": "MultiVersus",
+    "thumbnail": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersus_PlayerFirstGames_S2_1200x1600-e365b2244970128b898fd729263db67d?h=480&resize=1&w=360",
+    "short_description": "MultiVersus is a 2022 free-to-play crossover fighting video game developed by Player First Games and published by Warner Bros. Interactive Entertainment. The game is a platform fighter, featuring characters from Warner Bros.",
+    "genres": ["Fighting"],
+    "publisher": "Warner Bros. Games",
+    "developer": "Player First Games",
+    "release_date": "9/11/2021",
+    "price": "00.00"
+  },
+  {
+    "id": 542,
+    "title": "Red Dead Redemption 2",
+    "thumbnail": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic%20Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg?h=480&resize=1&w=360",
+    "short_description": "After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive.",
+    "genres": ["Action", "Sand Box", "Open World", "Third-person Shooter"],
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar Games",
+    "release_date": "05/11/2019",
+    "price": "41.67"
+  },
+  {
+    "id": 1,
+    "title": "Rocket League",
+    "thumbnail": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/S9_1200x1600-c1bc7211d9e671d7384e2f0247f0f77a?h=480&resize=1&w=360",
+    "short_description": "Rocket League is a fantastical sport-based video game, developed by Psyonix (it's “soccer with cars”). It features a competitive game mode based on teamwork and outmaneuvering opponents. Players work with their team to advance the ball down the field, and score goals in their opponents' net.",
+    "genres": ["Sports", "Racing"],
+    "publisher": "Psyonix LLC",
+    "developer": "Psyonix LLC",
+    "release_date": "07/07/2015",
+    "price": "00.00"
+  },
+  {
+    "id": 61,
+    "title": "The Last of Us™ Part I",
+    "thumbnail": "https://cdn1.epicgames.com/offer/0c40923dd1174a768f732a3b013dcff2/EGS_TheLastofUsPartI_NaughtyDogLLC_S2_1200x1600-41d1b88814bea2ee8cb7986ec24713e0?h=480&resize=1&w=360",
+    "short_description": "Joel is a single father living near Austin, Texas, with his twelve-year-old daughter Sarah. One night, an outbreak of a mutant Cordyceps fungus ravages the United States, transforming its human hosts into cannibalistic monsters.",
+    "genres": ["Action", "Adventure"],
+    "publisher": "Naughty Dog LLC",
+    "developer": "PlayStation PC LLC",
+    "release_date": "09/04/23",
+    "price": "soon"
+  },
+  {
+    "id": 2,
+    "title": "Valorant",
+    "thumbnail": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/VAL_1200x1600-9d4b02efc9c35dedfb51ec0e1248abec?h=480&resize=1&w=360",
+    "short_description": "Valorant is a team-based first-person tactical hero shooter set in the near future. Players play as one of a set of Agents, characters based on several countries and cultures around the world. In the main game mode, players are assigned to either the attacking or defending team with each team having five players on it.",
+    "genres": ["Action", "First-person Shooter"],
+    "publisher": "Riot Games",
+    "developer": "Riot Games",
+    "release_date": "02/06/20",
+    "price": "00.00"
+  },
+  {
+    "id": 902,
+    "title": "Warframe",
+    "thumbnail": "https://cdn1.epicgames.com/offer/244aaaa06bfa49d088205b13b9d2d115/EGS_Warframe_DigitalExtremes_S2_1200x1600-d8b19013ae27b27a1f8ad0e41009d7eb?h=480&resize=1&w=360",
+    "short_description": "Single-player, multiplayer. In Warframe, players control members of the Tenno, a race of ancient warriors who have awoken from centuries of suspended animation far into Earth's future to find themselves at war in the planetary system with different factions.",
+    "genres": ["Action", "Adventure"],
+    "publisher": "Digital Extremes",
+    "developer": "Digital Extremes",
+    "release_date": "12/10/20",
+    "price": "00.00"
+  },
+  {
+    "id": 63,
+    "title": "Witchfire",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/04d5b86a93514949a3ace614d9e1e417/download-witchfire-offer-mcfjx.png?h=480&resize=1&w=360",
+    "short_description": "Witchfire is a first-person shooter from the creative leads behind Painkiller and Bulletstorm. A roguelite for people who hate roguelites, the game offers a challenging but satisfying gameplay experience, and with multiple roads to victory. Witchfire is set for a 2023 release on PC.",
+    "genres": ["First-preson Shooter", "Roguelite"],
+    "publisher": "The Astronauts",
+    "developer": "The Astronauts",
+    "release_date": "soon",
+    "price": "soon"
+  }
+]
